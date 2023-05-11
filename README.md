@@ -1,6 +1,9 @@
 # ots
 
-A versatile one-shot text spotting model capable of handling multiple conditions, thereby providing a valuable tool for researchers studying ancient texts in resource-limited settings.
+In the realm of historical manuscripts research, scholars dedicate countless hours to the meticulous task of identifying and recording new symbols discovered in the pages of historical texts. This process, while crucial to the progress of our understanding of history and culture, is currently carried out using rudimentary means that are both time-consuming and labor-intensive. Researchers, often working in resource-limited settings, must manually spot a new symbol, painstakingly document it on paper, and then collate these findings for future reference. This system, while diligent, is far from efficient, and can often lead to disarray and inaccuracies due to the human factor.
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/db.png" width="633" >
+
+Recognizing this pressing issue, we have embarked on an innovative project to revolutionize the field. We introduce a versatile one-shot text spotting model, an advanced tool designed to streamline the process of symbol documentation. Equipped with the capacity to handle multiple conditions, this groundbreaking tool will greatly enhance the efficiency and accuracy of symbol/character/text spotting in ancient books.
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/readme.png" width="633" >
 
