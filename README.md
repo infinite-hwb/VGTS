@@ -6,7 +6,7 @@ In the realm of historical manuscripts research, scholars dedicate countless hou
 
 Recognizing this pressing issue, we have embarked on an innovative project to revolutionize the field. We introduce a versatile one-shot text spotting model, an advanced tool designed to streamline the process of symbol documentation. Equipped with the capacity to handle multiple conditions, this groundbreaking tool will greatly enhance the efficiency and accuracy of symbol/character/text spotting in ancient books.
 
-<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_1.png" width="633" >
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_1.png" width="800" >
 
 **Acknowledgments**
 
