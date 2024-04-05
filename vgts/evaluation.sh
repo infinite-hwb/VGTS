@@ -1,0 +1,1 @@
+python main.py --config-file config_training.yml model.use_inverse_geom_model True model.use_simplified_affine_model False model.backbone_arch ResNet50 train.do_training False eval.dataset_names "[\"dbtest-val-new-cl\"]" eval.dataset_scales "[2500.0]" init.model output/db/checkpoint_bestl_db.pth model.class_image_size 240
