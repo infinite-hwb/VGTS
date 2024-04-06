@@ -4,7 +4,7 @@ In the realm of historical manuscripts research, scholars dedicate countless hou
 
 This process, while crucial to the progress of our understanding of history and culture, is currently carried out using rudimentary means that are both time-consuming and labor-intensive. 
 
-Researchers, often working in resource-limited settings, must manually spot a new symbol, painstakingly document it on paper, and then collate these findings for future reference. This system, while diligent, is far from efficient, and can often lead to disarray and inaccuracies due to the human factor.
+Researchers, often working in resource-limited settings, must manually spot a new symbol, painstakingly document it on paper, and then collate these findings for future reference. This system, while diligent, is far from efficient, and can often lead to disarray and inaccuracies due to the human factor. For more details about our project, please refer to [Link](https://infinite-hwb.github.io/db.github.io/).
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/db.png" width="633" >
 
