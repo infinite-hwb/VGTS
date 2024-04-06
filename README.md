@@ -32,7 +32,7 @@ Furthermore, our model demonstrates impressive performance on additional dataset
 
 *Fig 4. Performance on the Tripitaka Koreana in Han Dataset, Illustrating Ancient Chinese Buddhist Scriptures*
 
-<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_4.png" width="800" >
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_4.png" width="500" >
 
 *Fig 5.  Performance on the Egyptian Hieroglyph Dataset, Showcasing Ancient Egyptian Hieroglyphs*
 
