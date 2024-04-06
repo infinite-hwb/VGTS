@@ -8,11 +8,23 @@ Researchers, often working in resource-limited settings, must manually spot a ne
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/db.png" width="633" >
 
+*Fig 1. Manuscript notes of a historian studying Dongba texts: newly discovered characters categorized and annotated*
+
 Recognizing this pressing issue, we have embarked on an innovative project to revolutionize the field. We introduce a versatile text spotting model, an advanced tool designed to streamline the process of symbol documentation. 
 
 Equipped with the capacity to handle multiple conditions, this groundbreaking tool will greatly enhance the efficiency and accuracy of symbol/character/text spotting in ancient books.
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_1.png" width="800" >
+
+*Fig 2. The overall framework of VGTS*
+
+Figure 2 illustrates the model's framework.
+
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_2.png" width="800" >
+
+*Fig 3. Visualization results on the DBH datasets*
+
+Fig 3 shows the VGTS model's visual results on the DBH dataset. Here, green boxes indicate categories identified during training ('Base'), while blue boxes highlight categories not seen in the training phase ('Novel').
 
 **Acknowledgments**
 
