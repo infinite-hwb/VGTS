@@ -8,7 +8,7 @@ Researchers, often working in resource-limited settings, must manually spot a ne
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/db.png" width="633" >
 
-*Fig 1. Manuscript notes of a historian studying Dongba texts: newly discovered characters categorized and annotated*
+*Fig 1. Manuscript Notes of a Historian Studying Dongba Texts: Newly Discovered Characters Categorized and Annotated*
 
 Recognizing this pressing issue, we have embarked on an innovative project to revolutionize the field. We introduce a versatile text spotting model, an advanced tool designed to streamline the process of symbol documentation. 
 
@@ -16,15 +16,25 @@ Equipped with the capacity to handle multiple conditions, this groundbreaking to
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_1.png" width="800" >
 
-*Fig 2. The overall framework of VGTS*
+*Fig 2. The Overall Framework of VGTS*
 
-Figure 2 illustrates the model's framework.
+Fig 2 illustrates the model's framework.
 
 <img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_2.png" width="800" >
 
-*Fig 3. Visualization results on the DBH datasets*
+*Fig 3. Visualization Results on the DBH datasets*
 
 Fig 3 shows the VGTS model's visual results on the DBH dataset. Here, green boxes indicate categories identified during training ('Base'), while blue boxes highlight categories not seen in the training phase ('Novel').
+
+Furthermore, our model demonstrates impressive performance on additional datasets. For instance, Fig 4 presents results on the Tripitaka Koreana in Han dataset, showcasing ancient Chinese Buddhist scriptures, while Fig 5 exhibits performance on the Egyptian Hieroglyph Dataset.
+
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_3.png" width="800" >
+
+*Fig 4. Performance on the Tripitaka Koreana in Han Dataset, Illustrating Ancient Chinese Buddhist Scriptures*
+
+<img src="https://github.com/infinite-hwb/ots/blob/master/ST/Images/readme/2_4.png" width="800" >
+
+*Fig 5.  Performance on the Egyptian Hieroglyph Dataset, Showcasing Ancient Egyptian Hieroglyphs*
 
 **Acknowledgments**
 
